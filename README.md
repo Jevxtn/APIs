@@ -1,7 +1,7 @@
 ## Free APIs
 
-#### 50+ Free APIs for Software and Web Development
-#### Build amazing software and web applications with over 150 free APIs covering a wide range of categories, including weather, maps, translation, social media, and more. Public APIs - A collective list of free APIs for use in software and web development.
+#### Free APIs for Software and Web Development
+#### Build amazing software and web applications with over free APIs covering a wide range of categories, including weather, maps, translation, social media, and more. Public APIs - A collective list of free APIs for use in software and web development.
 
 #
 # Animals
